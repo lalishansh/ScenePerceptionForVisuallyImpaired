@@ -1,0 +1,10 @@
+**.*
+
+!/.gitignore
+!/main.py
+!/README.md
+!/requirements.txt
+!/run.ps1
+!/assets/*.*
+!/yolov4-implementation.py
+!/monodepth2-implementation.py
